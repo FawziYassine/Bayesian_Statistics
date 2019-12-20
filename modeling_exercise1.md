@@ -136,3 +136,4 @@ hist(signups, xlim = c(0, 100))
 quantile(signups, c(0.025, 0.975))
 # So a decent guess is that is would be between 20 and 60 sign-ups.
 ```
+
